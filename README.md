@@ -3,7 +3,7 @@
  We embarked on this project not because it was going to be easy, but because we **thought** it was going to be easy.
 
 A processing.org & arduino implementation of the classic game "pong" using atari's [paddle controller](https://atari.com/products/cx30-paddle-controller-bundle)
-![](doc/video/gameplay.gif)
+![](doc/images/screenshot.png)
 
 ## TL&DR
 
@@ -12,4 +12,5 @@ A processing.org & arduino implementation of the classic game "pong" using atari
 * upload the arduino [sketch](src/arduino) to your arduino
 * open the processing [sketch](src/processing) on your computer
 
+![](doc/video/gameplay.gif)
 have fun playing and hack away!
