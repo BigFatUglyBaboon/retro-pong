@@ -7,10 +7,11 @@ A processing.org & arduino implementation of the classic game "pong" using atari
 
 ## TL&DR
 
-* get a [paddle controller](doc/images/atari-paddles.png), I got mine from an online retailer, no need to get atari's bundle.
+* get a [paddle controller](doc/images/atari-paddles.png), I got mine from an online retailer, no need to get atari's bundle if you don't have (or don't want) the cartriges.
 * build the arduino [adapter](doc/controller.md)
 * upload the arduino [sketch](src/arduino) to your arduino
 * open the processing [sketch](src/processing) on your computer
 
+Here's an animated gif of the gameplay, it is slow and full of crazy artifacts, for a better feel you can check this [video](doc/video/gameplay.mp4)
 ![](doc/video/gameplay.gif)
 have fun playing and hack away!
